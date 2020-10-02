@@ -2,7 +2,7 @@
 
 int main() {
     int mois,jour;
-    printf("Vauillez entrer votre jour de naissance");
+    printf("Veuillez entrer votre jour de naissance");
     scanf("%d",&jour);
     printf("Vauillez entrer votre mois de naissance");
     scanf("%d",&mois);
